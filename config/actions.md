@@ -10,7 +10,7 @@ Triggerable actions available to the Voice AI agent during a call.
 - **Type:** Call Transfer
 - **Transfer To:** +16262784934
 - **Trigger Condition:** When the caller has a legitimate business-related question that cannot be answered from the knowledge base, has a complaint or issue requiring human judgment, or explicitly asks to speak with a person. Do NOT trigger for general or off-topic questions unrelated to the business.
-- **What to say before transferring:** "I'm going to transfer you to someone that has this information. Please wait."
+- **What to say before transferring:** "I'll transfer you to Karl — he's the owner and can help with this. Please hold for a moment."
 - **Whisper message on transfer:** No
 
 ---

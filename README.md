@@ -4,7 +4,7 @@
 
 1. **Cursor (or any editor)** — Iterate on the live agent config: edit `config/knowledge-base.md`, `config/agent.md` (system prompt), `config/actions.md`, and anything else under `config/` or the generator as needed.
 2. **Regenerate the assembled prompt** — From the repo root, run `python3 generate_simulation_prompt.py` so `simulation-prompt.md` reflects your latest changes.
-3. **AI chat (Claude or whatever you use)** — Open a new chat, paste the **full** contents of `simulation-prompt.md`, send it, and you’re in a **simulated** call: the model plays Declan (the receptionist) and you play the caller.
+3. **AI chat (Claude or whatever you use)** — Open a new chat, paste the **full** contents of `simulation-prompt.md`, send it, and you’re in a **simulated** call: the model plays the receptionist and you play the caller.
 
 ---
 
