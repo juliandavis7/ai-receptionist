@@ -1,5 +1,13 @@
 # Humble Bike Rentals — AI Receptionist Simulation
 
+## Workflow
+
+1. **Cursor (or any editor)** — Iterate on the live agent config: edit `config/knowledge-base.md`, `config/agent.md` (system prompt), `config/actions.md`, and anything else under `config/` or the generator as needed.
+2. **Regenerate the assembled prompt** — From the repo root, run `python3 generate_simulation_prompt.py` so `simulation-prompt.md` reflects your latest changes.
+3. **AI chat (Claude or whatever you use)** — Open a new chat, paste the **full** contents of `simulation-prompt.md`, send it, and you’re in a **simulated** call: the model plays Declan (the receptionist) and you play the caller.
+
+---
+
 ## File Structure
 
 ```
@@ -31,15 +39,6 @@ Optional: `python3 generate_simulation_prompt.py -o path/to/output.md` to write 
 
 ---
 
-## How to Run a Simulation
-
-1. After any change under `config/`, run `python3 generate_simulation_prompt.py` so `simulation-prompt.md` stays up to date.
-2. Open `simulation-prompt.md` and copy the full file.
-3. Paste it into a new Claude chat (or another model acting as the simulator).
-4. The assistant should open with Declan’s greeting—you play the caller.
-
----
-
 ## How to Update Each File
 
 | File | When to edit |
@@ -47,7 +46,6 @@ Optional: `python3 generate_simulation_prompt.py -o path/to/output.md` to write 
 | `agent.md` | Change persona, tone, call flow steps, escalation rules |
 | `knowledge-base.md` | Update pricing, hours, policies, FAQs, add/remove inventory |
 | `actions.md` | Add, remove, or modify triggerable actions and transfer numbers |
-| `generate_simulation_prompt.py` | Change simulation wrapper text (template header/footer around the injected config), CLI defaults, or assembly logic |
 | `simulation-prompt.md` | Do not edit by hand for content—regenerate with the script after config changes |
 
 ---
