@@ -1,4 +1,3 @@
----
 # Humble Bike Rentals — AI Receptionist Simulation
 
 ## File Structure
@@ -8,18 +7,36 @@
   agent.md          ← Persona, tone, call flow, conversation rules
   knowledge-base.md ← Business info, pricing, policies, FAQs, routes
   actions.md        ← Triggerable actions with conditions and scripts
-simulation-prompt.md  ← Master prompt to paste into Claude to run a simulation
-README.md             ← This file
+generate_simulation_prompt.py  ← Builds simulation-prompt.md from the three config files
+simulation-prompt.md           ← Generated master prompt to paste into Claude for a simulation
+README.md                      ← This file
+requirements.txt               ← No pip deps; stdlib only (see script section)
 ```
+
+---
+
+## `generate_simulation_prompt.py`
+
+**Purpose:** Regenerates `simulation-prompt.md` automatically by injecting the full contents of `config/agent.md`, `config/knowledge-base.md`, and `config/actions.md` into the simulation template (intro, `[SYSTEM PROMPT]`, `[KNOWLEDGE BASE]`, `[ACTIONS]`, and the roleplay rules footer). That way you edit the config files once and always get a single assembled prompt for testing—no manual copy-paste between files.
+
+**Requirements:** Python 3.9+ and no third-party packages (stdlib only).
+
+**Run from the repo root:**
+
+```bash
+python3 generate_simulation_prompt.py
+```
+
+Optional: `python3 generate_simulation_prompt.py -o path/to/output.md` to write elsewhere; `--root` if running from another directory.
 
 ---
 
 ## How to Run a Simulation
 
-1. Open `simulation-prompt.md`
-2. Replace the three placeholder comments with the full contents of the corresponding config files
-3. Paste the entire assembled prompt into a new Claude chat
-4. Claude will open with Declan's greeting — you play the caller
+1. After any change under `config/`, run `python3 generate_simulation_prompt.py` so `simulation-prompt.md` stays up to date.
+2. Open `simulation-prompt.md` and copy the full file.
+3. Paste it into a new Claude chat (or another model acting as the simulator).
+4. The assistant should open with Declan’s greeting—you play the caller.
 
 ---
 
@@ -30,13 +47,13 @@ README.md             ← This file
 | `agent.md` | Change persona, tone, call flow steps, escalation rules |
 | `knowledge-base.md` | Update pricing, hours, policies, FAQs, add/remove inventory |
 | `actions.md` | Add, remove, or modify triggerable actions and transfer numbers |
-| `simulation-prompt.md` | Change simulation behavior rules (not the business content) |
+| `generate_simulation_prompt.py` | Change simulation wrapper text (template header/footer around the injected config), CLI defaults, or assembly logic |
+| `simulation-prompt.md` | Do not edit by hand for content—regenerate with the script after config changes |
 
 ---
 
 ## Tips
 
 - Test edge cases first — frustrated callers, out-of-scope questions, transfer triggers
-- After making changes to any config file, re-assemble `simulation-prompt.md` before the next simulation
+- Run `generate_simulation_prompt.py` after editing any file in `config/`
 - The simulation prompt mirrors the live GHL Voice AI configuration — keep them in sync
----
