@@ -88,7 +88,7 @@ def main() -> None:
             raise SystemExit(f"Missing required file: {p}")
 
     text = build_simulation_prompt(agent_path, knowledge_path, actions_path)
-    out.write_text(text, encoding="utf-8", newline="\n")
+    out.write_text(text, encoding="utf-8")
     print(f"Wrote {out}")
 
 

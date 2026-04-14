@@ -94,6 +94,18 @@ A: Late returns are charged at the hourly rate. All bikes must be returned by 7:
 Q: Do you offer tandem bikes?
 A: Not currently, but we have side-by-side options for kids with the baby carrier/trailer attachments.
 
+Q: Do you give student discounts?
+A: We don't currently offer student discounts.
+
+Q: Do you offer guided tours?
+A: We don't currently offer guided tours.
+
+Q: Do you have carbon road bikes?
+A: We don't currently carry carbon road bikes.
+
+Q: How many bikes do you currently have available?
+A: I don't have live availability details in this system right now.
+
 Q: Is there parking?
 A: Street parking is available on Pacific Terrace. The Santa Monica Pier parking structure is also nearby (paid).
 
