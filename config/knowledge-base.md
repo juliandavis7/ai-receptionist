@@ -1,5 +1,5 @@
 ---
-🚲 Humble Bike Rentals — Knowledge Base
+Humble Bike Rentals — Knowledge Base
 
 **BUSINESS OVERVIEW**
 - Business Name: Humble Bike Rentals
