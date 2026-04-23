@@ -1,28 +1,9 @@
-# New AI Receptionist — Meta Prompt
+> **Business name:** `Nail Secrets`
+> **Business website:** `https://nailsecretsglendale.com/`
+> **Owner name (optional):** `—`
+> **Owner/transfer phone (optional, E.164 e.g. +16262784934):** `+16506450852`
 
-Use this prompt to scaffold the "brains" for an AI voice receptionist for a **new business**. Cursor will overwrite the three config files (`config/agent.md`, `config/knowledge-base.md`, `config/actions.md`). When those are done, run `generate_simulation_prompt.py` once (final step) to assemble `simulation-prompt.md`.
-
----
-
-## How to use
-
-1. Start a **new Cursor chat** from the repo root.
-2. Paste the **Instructions** block below, filling in `BUSINESS NAME` and `BUSINESS WEBSITE` (and, if you have them, owner name / owner phone).
-3. Cursor will fetch the website, extract the relevant info, and rewrite the three `config/*.md` files.
-4. Review the three config files, then run `python3 generate_simulation_prompt.py` **once** from the repo root (only after all other edits are complete).
-
-The reference implementation to mimic (tone, section order, formatting, quality bar) is the **Humble Bike Rentals** config on `main`. New work branches from `main`, so that reference stays available in the repo — treat it as the gold standard.
-
----
-
-## Instructions (paste into Cursor)
-
-> **Business name:** `<FILL IN>`
-> **Business website:** `<FILL IN>`
-> **Owner name (optional):** `<FILL IN>`
-> **Owner/transfer phone (optional, E.164 e.g. +16262784934):** `<FILL IN>`
-
-You are scaffolding a new AI voice receptionist for the business above, deployed on GHL Voice AI. Replace the current contents of `config/agent.md`, `config/knowledge-base.md`, and `config/actions.md` with versions tailored to this business. Do **not** modify `project.md`, `README.md`, or `generate_simulation_prompt.py`. Do not run `generate_simulation_prompt.py` or touch `simulation-prompt.md` until **Step 5** — the script is only for the final assembly step.
+You are scaffolding a new AI voice receptionist for the business above, deployed on GHL Voice AI. Replace the current contents of `config/agent.md`, `config/knowledge-base.md`, and `config/actions.md` with versions tailored to this business. Do **not** modify `project.md`, `README.md`, `generate_meta_prompt.py`, or `generate_simulation_prompt.py`. Do not run `generate_simulation_prompt.py` or touch `simulation-prompt.md` until **Step 5** — the script is only for the final assembly step.
 
 Use the Humble Bike Rentals config on `main` as the structural and tonal reference (branch from `main` so it remains in the tree). Only the subject matter should change — section order, delimiters, rule style, and phone-call brevity must match.
 

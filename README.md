@@ -16,8 +16,9 @@
   knowledge-base.md ← Business info, pricing, policies, FAQs, routes
   actions.md        ← Triggerable actions with conditions and scripts
 generate_simulation_prompt.py  ← Builds simulation-prompt.md from the three config files
+generate_meta_prompt.py        ← Fills meta-prompt.md (business name, URL, owner contact)
 simulation-prompt.md           ← Generated master prompt to paste into Claude for a simulation
-meta-prompt.md                 ← Scaffold a new receptionist for a new business from a name + URL
+meta-prompt.md                 ← Paste the entire file into Cursor to scaffold; run generate_meta_prompt.py to fill the four business fields
 README.md                      ← This file
 requirements.txt               ← No pip deps; stdlib only (see script section)
 ```
@@ -26,7 +27,37 @@ requirements.txt               ← No pip deps; stdlib only (see script section)
 
 ## Scaffolding a Brand-New Business
 
-To spin up the receptionist "brains" for a different business (e.g. a nail salon), see `meta-prompt.md`. Paste it into a new Cursor chat with the business name and website, and Cursor will rewrite all three `config/*.md` files to match, then regenerate `simulation-prompt.md`.
+Use the **meta prompt** (`meta-prompt.md`) to have Cursor overwrite the three config files (`config/agent.md`, `config/knowledge-base.md`, `config/actions.md`) for a **new** business. When those edits are done, run `generate_simulation_prompt.py` once (final step) to assemble `simulation-prompt.md`. Human workflow:
+
+1. From the repo root, run `python3 generate_meta_prompt.py` (see below). It asks for the business name, website, and optional owner name and transfer phone, then fills the four placeholder lines at the top of `meta-prompt.md`. You can also pass those values with flags. To run the generator again later, restore the template first (e.g. `git restore meta-prompt.md`) or use `-i` with a file that still has all four `FILL IN` tokens (as in the committed template).
+2. Start a **new Cursor chat** from the repo root, paste the **entire** contents of `meta-prompt.md` (nothing skipped), and send.
+3. Cursor will fetch the website, extract the relevant info, and rewrite the three `config/*.md` files.
+4. Review the three config files, then run `python3 generate_simulation_prompt.py` **once** from the repo root (only after all other edits are complete).
+
+The reference implementation to mimic (tone, section order, formatting, quality bar) is the **Humble Bike Rentals** config on `main`. New work should branch from `main` so that reference stays in the tree — treat it as the gold standard.
+
+---
+
+## `generate_meta_prompt.py`
+
+**Purpose:** Fills the four placeholder fields at the top of `meta-prompt.md` (business name, website, owner name, transfer phone) so you do not have to hand-edit them before pasting the full file into Cursor.
+
+**Requirements:** Python 3.9+ and no third-party packages (stdlib only).
+
+**Run from the repo root (interactive):**
+
+```bash
+python3 generate_meta_prompt.py
+```
+
+**Non-interactive example:**
+
+```bash
+python3 generate_meta_prompt.py --name "My Shop" --website "https://example.com" \
+  --owner-name "Alex" --owner-phone "+12065551212"
+```
+
+Optional: `-o path/to/out.md` to write somewhere other than the default; `-i path/to/template.md` if the template is not the default `meta-prompt.md` (the template must contain exactly four `<FILL IN>` placeholders); `--root` if the project root is not the current directory. Optional owner fields can be omitted in interactive mode (press Enter) or left off the CLI; they are written as `—` in the output when not provided.
 
 ---
 
