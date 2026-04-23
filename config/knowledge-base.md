@@ -1,137 +1,129 @@
 ---
-Humble Bike Rentals — Knowledge Base
+Nail Secrets — Knowledge Base
 
 **BUSINESS OVERVIEW**
-- Business Name: Humble Bike Rentals
-- Tagline: "Affordable Bike Rentals in Santa Monica"
-- Phone: 310-999-1478
-- Email: Info@humblebikerentals.com
-- Address: 2-98 Pacific Terrace, Santa Monica, CA 90401 (near the beach path)
-- Website: humblebikerentals.com
+- Business Name: Nail Secrets
+- Tagline: "Discover the Best-Kept Secrets…" — relaxing beauty and nail treatments; services described on the site as luxurious and professional, to keep clients polished and painted to perfection.
+- Phone: 818-551-9511
+- Email: naillsecrets@gmail.com
+- Address: 1040 W. Kenneth Rd, Unit 5, Glendale, CA 91202
+- Website: https://nailsecretsglendale.com/
 
 **Hours:**
-- Open daily 10:00 AM – 7:45 PM
-- Last rental accepted at 7:00 PM (must return by 7:45 PM)
-- Not open on all holidays (e.g. Christmas); call for holiday hours
+- Monday–Saturday: 10:00 AM – 7:00 PM (stated in the online appointment form as business hours)
+- Sunday: TBD: Sunday hours (not listed on the site)
+- Holiday hours: TBD: holiday closures or special hours (not listed on the site)
 
 ---
 
-**SERVICES & RENTAL INVENTORY**
-Beach Cruisers, E-Bikes, Kids Bikes, Baby Carriers/Trailers, Surfboards, Skateboards, Longboards, Overnight Rentals.
+**SERVICES**
+Manicure and pedicure (regular, Russian, gel, Russian gel), gel removal, rubber gel manicure, French gel manicure, add-ons (sugar scrub, design, callus treatment), acrylic (full set, fill, removal options, polish change, nail fix), Apres GelX gel extensions and GelX removal, waxing (face and body areas listed under pricing).
 
 ---
 
-**PRICING (Hourly Rates)**
+**PRICING**
+(Flat per service, as shown on the site.)
 
-Beach Cruiser — $10/hour
-E-Bike — $30/hour
-Surfboard — $10/hour
+**Manicure / pedicure**
+- Reg. Manicure — $25
+- Reg. Pedicure — $40
+- Russian Manicure — $45
+- Russian Pedicure — $60
+- Gel Manicure — $50
+- Gel Pedicure — $60
+- Russian Gel Manicure — $70
+- Russian Gel Pedicure — $80
+- Gel removal — $20+
+- Rubber Gel Manicure — $70+
+- French Gel Manicure — $70+
+- Sugar scrub — $10+
+- Design — $2+
+- Callus treatment — $15+
 
-Multi-hour & daily discounts available — ask about our multi-hour and full-day pricing when you book or stop in. Minimum rental is one hour.
+**Acrylic**
+- Acrylic Full Set — $70+
+- Acrylic Fill — $65+
+- Acrylic Removal (without service) — $25+
+- Acrylic Removal (with manicure) — $45+
+- Gel Extension (Apres GelX) — $80+
+- GelX removal — $25+
+- Acrylic Polish Change — $35+
+- Nail fix — $5+
 
-**IN-STORE PRICING ONLY**
-Kids Bikes, Baby Carriers/Trailers, Skateboards, Longboards
-(Pricing varies — available when you visit the shop.)
-
----
-
-**WHAT TO BRING**
-- Valid photo ID (required for all rentals)
-- Credit card (a $50–$100 hold is placed at time of rental, varies by bike type, released upon return in good condition)
-- Helmets and locks are provided free with every rental — no need to bring your own
+**Waxing**
+- Eyebrow — $20+
+- Lip — $10+
+- Chin — $10+
+- Side of face — $20+
+- Entire face — $50+
+- Arms — $40+
+- Underarms — $20+
+- Chest — $20+
+- Back — $45+
+- Lower leg — $45+
+- Full leg — $60+
 
 ---
 
 **POLICIES**
 
-Reservations
-- Walk-ins welcome, but reservations recommended on weekends and holidays
-- A credit card is required to hold a reservation
-- Reservations can be modified subject to availability — call as soon as possible to make changes
-- Cancellations must be made at least 2 hours before rental start time for a full refund
+Appointments & booking
+- Online appointment requests are submitted through the website form (name, phone, email, date, and desired time and services).
+- The site states appointments are confirmed via text or email after the request is submitted.
 
-Overnight Rentals
-- Available for beach cruisers and e-bikes
-- Pickup after 5:00 PM, return by 10:00 AM the following day
-- E-bike overnight rentals include a charging cable
-
-Late Returns
-- Late returns are charged at the hourly rate
-- All bikes must be returned by 7:45 PM
-
-Damage & Liability
-- Renters are responsible for any damage beyond normal wear and tear
-- Helmets provided free of charge and strongly encouraged
-- Locks included with every rental
-- Not responsible for theft if bike is left unattended and unlocked
-
-Group Rentals
-- Groups of 10+ should call ahead to ensure availability
-- Corporate/event group bookings available with 48 hours notice
+Walk-ins, deposits, cancellation, no-show, refunds, late arrival, groups, minors, hygiene, and other policies
+- TBD: walk-in policy, deposits, cancellation and no-show rules, refund policy, late policy, group bookings, age requirements, and any other posted salon policies (not listed on the site)
 
 ---
 
 **LOCATION & LOGISTICS**
-- Located steps from the Santa Monica Bike Path
-- Easy access north toward Malibu or south toward Venice Beach
-- Staff can provide a free paper map of the bike path
-
-Parking & Transit
-- Free street parking nearby on Pacific Terrace
-- Santa Monica Pier parking structure is also nearby (paid)
-- Expo Line Metro stop (Downtown Santa Monica) is a 5-minute walk away
+- Suite: Unit 5 at 1040 W. Kenneth Road, Glendale, California 91202.
+- Parking, transit, landmarks, and accessibility: TBD: parking, public transit, nearby landmarks, and accessibility details (not described on the site)
 
 ---
 
 **FREQUENTLY ASKED QUESTIONS**
 
-Q: Do I need to know how to ride a bike?
-A: Yes, renters should be comfortable riding independently. The flat beachfront path is very beginner-friendly.
+Q: What are your hours?
+A: The site lists Monday through Saturday, ten A M to seven P M. Sunday hours aren't listed online.
 
-Q: Are helmets included?
-A: Yes, helmets are free with every rental. Sizes available for adults and kids.
+Q: How do I book an appointment?
+A: You can request one through the appointment form on our website; we'll confirm by text or email.
 
-Q: Can I ride on the beach sand?
-A: Bikes are designed for the paved bike path, not soft sand. Riding in sand can damage the bike and may result in damage charges.
+Q: What's the difference between a regular and a Russian manicure or pedicure?
+A: The site lists both as separate services with different prices but doesn't spell out the technique differences here.
 
-Q: How far can I ride?
-A: The path runs about 22 miles round trip. Most customers do a 2–4 hour loop.
+Q: Do you do acrylics and gel extensions?
+A: Yes — acrylic full sets and fills, removals, polish changes, nail fixes, and Apres GelX gel extensions with removal are all on the menu.
 
-Q: Can I bring my dog?
-A: We have a limited number of pet trailers available. Call ahead to reserve one.
+Q: Do you offer waxing?
+A: Yes, including brows, face areas, arms, underarms, chest, back, and legs — prices start at the amounts shown on the price list, with plus signs where the site indicates add-ons or variation.
 
-Q: Do you offer tandem bikes?
-A: Not currently, but we have side-by-side options for kids with the baby carrier/trailer attachments.
+Q: How much is a gel manicure?
+A: A gel manicure is fifty dollars on the price list. French gel and rubber gel manicures start at seventy dollars and can go up with options.
 
-Q: Do you give student discounts?
-A: We don't currently offer student discounts.
+Q: Where are you located?
+A: We're at 1040 West Kenneth Road, Unit 5, Glendale, California 91202.
 
-Q: Do you offer guided tours?
-A: We don't currently offer guided tours.
+Q: How can I reach you besides this call?
+A: You can reach us at 818-551-9511 or email naillsecrets@gmail.com.
 
-Q: How many bikes do you currently have available?
-A: I don't have live availability details in this system right now.
+Q: Are walk-ins welcome?
+A: TBD: walk-in policy — not specified on the website; appointment requests are emphasized online.
 
-Q: How far in advance can I book?
-A: You can book as far in advance as you'd like. We recommend booking early for weekends and holidays.
+Q: What if I need to cancel or reschedule?
+A: TBD: cancellation and rescheduling policy — not listed on the site.
 
-Q: What sizes are available for adult bikes?
-A: We have a range of sizes to fit most adults. Our team will fit you to the right bike when you arrive.
+Q: Do you do nail art or designs?
+A: Yes — design is on the menu starting at two dollars plus, depending on the design.
 
-Q: Can I drop the bike off somewhere other than the shop?
-A: No — all bikes must be returned to our location at 2-98 Pacific Terrace by 7:45 PM.
-
-Q: Can I extend my rental while I'm out on the path?
-A: Yes! You can reach us at 310-999-1478 from the path and we'll extend your rental as long as bikes are available and you can return by 7:45 PM.
-
-Q: What do I do if the bike breaks down mid-ride?
-A: You can reach us at 310-999-1478 right away and we'll help sort it out.
+Q: Is Sunday a good day to come in?
+A: Sunday hours aren't listed on the site; I'd suggest checking with the salon for the latest schedule.
 
 ---
 
-**POPULAR ROUTES**
-- Venice Beach Loop — ~5 miles, 45–60 min, passes Muscle Beach and the Venice Boardwalk
-- Santa Monica Pier to Will Rogers Beach — ~4 miles north, flat and scenic
-- Full Path Ride — ~10–12 miles each way, best on e-bikes
-- Family-Friendly Loop — Stay near the pier area, under 2 miles, great for kids
+**APPOINTMENTS (online)**
+- Booking path: website homepage, "Book an Appointment" / form in the appointment section (anchor `#appointment` on the main site).
+- Form collects name, phone, email, preferred date, and desired time and service(s).
+
 ---
