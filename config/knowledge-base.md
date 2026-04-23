@@ -21,15 +21,24 @@ Beach Cruisers, E-Bikes, Kids Bikes, Baby Carriers/Trailers, Surfboards, Skatebo
 
 ---
 
-**PRICING**
+**PRICING (Hourly Rates)**
 
 Beach Cruiser — $10/hour
 E-Bike — $30/hour
 Surfboard — $10/hour
-Kids Bikes — pricing available in-store
-Baby Carriers/Trailers — pricing available in-store
-Skateboards — pricing available in-store
-Longboards — pricing available in-store
+
+Multi-hour & daily discounts available — ask about our multi-hour and full-day pricing when you book or stop in. Minimum rental is one hour.
+
+**IN-STORE PRICING ONLY**
+Kids Bikes, Baby Carriers/Trailers, Skateboards, Longboards
+(Pricing varies — available when you visit the shop.)
+
+---
+
+**WHAT TO BRING**
+- Valid photo ID (required for all rentals)
+- Credit card (a $50–$100 hold is placed at time of rental, varies by bike type, released upon return in good condition)
+- Helmets and locks are provided free with every rental — no need to bring your own
 
 ---
 
@@ -38,17 +47,17 @@ Longboards — pricing available in-store
 Reservations
 - Walk-ins welcome, but reservations recommended on weekends and holidays
 - A credit card is required to hold a reservation
+- Reservations can be modified subject to availability — call as soon as possible to make changes
 - Cancellations must be made at least 2 hours before rental start time for a full refund
-
-ID & Deposit
-- Valid photo ID required at pickup for all rentals
-- A $50–$100 credit card hold placed at time of rental (varies by bike type)
-- Hold released upon return of equipment in good condition
 
 Overnight Rentals
 - Available for beach cruisers and e-bikes
 - Pickup after 5:00 PM, return by 10:00 AM the following day
 - E-bike overnight rentals include a charging cable
+
+Late Returns
+- Late returns are charged at the hourly rate
+- All bikes must be returned by 7:45 PM
 
 Damage & Liability
 - Renters are responsible for any damage beyond normal wear and tear
@@ -65,9 +74,12 @@ Group Rentals
 **LOCATION & LOGISTICS**
 - Located steps from the Santa Monica Bike Path
 - Easy access north toward Malibu or south toward Venice Beach
-- Free street parking nearby on Pacific Terrace
-- Expo Line Metro stop (Downtown Santa Monica) is a 5-minute walk away
 - Staff can provide a free paper map of the bike path
+
+Parking & Transit
+- Free street parking nearby on Pacific Terrace
+- Santa Monica Pier parking structure is also nearby (paid)
+- Expo Line Metro stop (Downtown Santa Monica) is a 5-minute walk away
 
 ---
 
@@ -88,9 +100,6 @@ A: The path runs about 22 miles round trip. Most customers do a 2–4 hour loop.
 Q: Can I bring my dog?
 A: We have a limited number of pet trailers available. Call ahead to reserve one.
 
-Q: What if I return the bike late?
-A: Late returns are charged at the hourly rate. All bikes must be returned by 7:45 PM.
-
 Q: Do you offer tandem bikes?
 A: Not currently, but we have side-by-side options for kids with the baby carrier/trailer attachments.
 
@@ -100,26 +109,11 @@ A: We don't currently offer student discounts.
 Q: Do you offer guided tours?
 A: We don't currently offer guided tours.
 
-Q: Do you have carbon road bikes?
-A: We don't currently carry carbon road bikes.
-
 Q: How many bikes do you currently have available?
 A: I don't have live availability details in this system right now.
 
-Q: Is there parking?
-A: Street parking is available on Pacific Terrace. The Santa Monica Pier parking structure is also nearby (paid).
-
-Q: Can I modify my reservation after booking?
-A: Yes, reservations can be modified subject to availability. Please call us as soon as possible to make any changes.
-
 Q: How far in advance can I book?
 A: You can book as far in advance as you'd like. We recommend booking early for weekends and holidays.
-
-Q: Is there a multi-hour discount or daily rate?
-A: Yes, we offer discounted rates for longer rentals. Ask about our multi-hour and full-day pricing when you book or stop in.
-
-Q: Is there a minimum rental duration?
-A: Our minimum rental is one hour.
 
 Q: What sizes are available for adult bikes?
 A: We have a range of sizes to fit most adults. Our team will fit you to the right bike when you arrive.
@@ -128,10 +122,10 @@ Q: Can I drop the bike off somewhere other than the shop?
 A: No — all bikes must be returned to our location at 2-98 Pacific Terrace by 7:45 PM.
 
 Q: Can I extend my rental while I'm out on the path?
-A: Yes! Just give us a call at 310-999-1478 and we'll extend your rental as long as bikes are available and you can return by 7:45 PM.
+A: Yes! You can reach us at 310-999-1478 from the path and we'll extend your rental as long as bikes are available and you can return by 7:45 PM.
 
 Q: What do I do if the bike breaks down mid-ride?
-A: Call us right away at 310-999-1478 and we'll help sort it out.
+A: You can reach us at 310-999-1478 right away and we'll help sort it out.
 
 ---
 

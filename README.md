@@ -17,9 +17,16 @@
   actions.md        ← Triggerable actions with conditions and scripts
 generate_simulation_prompt.py  ← Builds simulation-prompt.md from the three config files
 simulation-prompt.md           ← Generated master prompt to paste into Claude for a simulation
+meta-prompt.md                 ← Scaffold a new receptionist for a new business from a name + URL
 README.md                      ← This file
 requirements.txt               ← No pip deps; stdlib only (see script section)
 ```
+
+---
+
+## Scaffolding a Brand-New Business
+
+To spin up the receptionist "brains" for a different business (e.g. a nail salon), see `meta-prompt.md`. Paste it into a new Cursor chat with the business name and website, and Cursor will rewrite all three `config/*.md` files to match, then regenerate `simulation-prompt.md`.
 
 ---
 
